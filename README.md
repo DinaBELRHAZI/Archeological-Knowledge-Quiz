@@ -37,25 +37,33 @@ ApiQuiz est une API Rest qui va intervenir sur la base de données dès lors qu'
 
 Pour faciliter la navigation dans l'application, un menu flyout est accessible sur toutes les pages.
 
-![menu](img/menu.PNG)
+![menu](img/menu.png)
 
 #### Liste des questions
 
-![list](img/list.PNG)
+![list](img/list.png)
 
 #### Détails d'une question
 
-![details](img/details.PNG)
+![details](img/details.png)
 
 #### Modifier une question
 
-![update](img/update.PNG)
+![update](img/update.png)
+
+Une demande de confirmation pour l'enregistrement des modifications est demandée.
+Celà permet d'éviter tout enregistrement par erreur.
+
+![update2](img/update2.png)
 
 #### Ajout d'une question
 
-![add](img/add.PNG)
+![add](img/add.png)
 
 #### Suppression d'une question
 
-![delete](img/delete.PNG)
+Une demande de confirmation pour supprimer la question est demandée.
+Celà permet d'éviter toute suppression non intentionnée.
+
+![delete](img/delete.png)
 
